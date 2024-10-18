@@ -1,10 +1,10 @@
 
 # 🌟 Formulario de Cadastro Completo 🌟
 
-Este projeto é um formulário em HTML para coleta de dados pessoais e de endereço. Ele possui validação de campos e integração com a API do ViaCEP para preenchimento automático de informações de endereço a partir do CEP. O design é responsivo, utilizando Bootstrap e CSS personalizado.
+Este projeto é um formulário em HTML para coleta de dados pessoais e de endereço. Ele possui validação de campos e integração com a API do ViaCEP para preenchimento automático de informações de endereço a partir do CEP. O design é responsivo, utilizando Bootstrap e CSS personalizado, usamos o auxilios de outros projetos ja existentes para realizar esse trabalho!
 
 
-# 🦋 Funcionalidades 🦋
+# 🍂 Funcionalidades 🍂
 
 ### Coleta de dados pessoais ✉️:
 
@@ -51,5 +51,12 @@ Este projeto é um formulário em HTML para coleta de dados pessoais e de endere
 
 ## Ilustração do meu projeto 🩷
 
+![Cad-Completo](img/cad.png)
+
+## 🎉 linkedin
+Este projeto será documentado no LinkedIn para compartilhar meu trabalho e experiência com a comunidade.
+
+## *📝 Autoria:*
+Este projeto é uma criação ´Luamy Alves Gama´ desenvolvido com dedicação.
 
 
